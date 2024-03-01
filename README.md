@@ -7,8 +7,8 @@ This script requires the `time`, `datetime`, `schedule` and `requests` libraries
 
 ### Execution
 To run this script:
--First ensure the LuxOS sample API is running and listening on `localhost:5000`
--Execute this script by running `python main.py` on Windows CMD or `python3 main.py` on select Linux systems.
+- First ensure the LuxOS sample API is running and listening on `localhost:5000`
+- Execute this script by running `python main.py` on Windows CMD or `python3 main.py` on select Linux systems.
 
 ### What It Does
 
