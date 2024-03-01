@@ -12,8 +12,6 @@ import schedule
 import time
 import requests
 import os
-import argparse
-import json
 
 
 #Storing the API Address as a global var
